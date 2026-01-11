@@ -103,9 +103,8 @@ Open main.php in your code editor.
 
 Right-click → Copy Path, paste it into your browser.
 
-Remove everything before the folder name and type:
+Remove everything before the folder name and type
 
-http://localhost/Blood-Bank-Management-System/main.php
 
 
 🎉 The project is now ready to use!
